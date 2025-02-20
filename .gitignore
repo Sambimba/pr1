@@ -1,0 +1,8 @@
+*.o
+*.out
+*.exe
+*.bin
+
+.DS_Store
+*.swp
+*.log
